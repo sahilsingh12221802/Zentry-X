@@ -73,7 +73,7 @@ const Hero = () => {
         })
     })
 
-    const getVideoSrc = (index) => `/public/videos/hero-${index}.mp4`;
+    const getVideoSrc = (index) => `/videos/hero-${index}.mp4`;
 
 
   return (
